@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 I’m looking for help with SQL
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I played for Drexel University's Collegiate Valorant Team from 2021-2024
 <!--
 **vinsonjiang12/vinsonjiang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
